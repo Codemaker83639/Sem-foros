@@ -2,12 +2,12 @@
 
 ### Francisco Ogando (2021-0160)
 <p>
-1-Investigación: Problema de la concurrencia: semáforos
+Investigación: Problema de la concurrencia: semáforos
 Siguiendo los videos anteriores realiza un resumen sobre el problema de la concurrencia en sistemas operativos, definiendo que son:
 </p>
 
 <p>
-Concepto básico de semáforo en los sistemas operativos
+1-Concepto básico de semáforo en los sistemas operativos
 </p>
 
 <p>
