@@ -1,9 +1,11 @@
 # Sem-foros
 
-###Francisco Ogando (2021-0160)
-
+### Francisco Ogando (2021-0160)
+<p>
 1.**Investigación: Problema de la concurrencia: semáforos**
 *Siguiendo los videos anteriores realiza un resumen sobre el problema de la concurrencia en sistemas operativos, definiendo que son:*
+</p>
+
 **Concepto básico de semáforo en los sistemas operativos**
 **Explica en qué consisten los semáforos binarios y enteros**
 **Explica la relacion entre los semáforos y la sincronización**
